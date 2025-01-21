@@ -4,6 +4,8 @@ A **pixel-perfect UI clone** of [shkw-dev.com](http://shkw-dev.com), built using
 
 ---
 
+![shkw-dev](https://github.com/user-attachments/assets/42821bee-92c6-45ec-8c51-1cfb312dec8a)
+
 
 ## 🌟 **Features**  
 - **Smooth GSAP Animations**: Elegant and seamless animations to enhance user experience.
@@ -15,7 +17,7 @@ A **pixel-perfect UI clone** of [shkw-dev.com](http://shkw-dev.com), built using
 
 ## 🚀 **Live Demo**  
 Check out the live version of the project here:  
-👉 [shkw-dev UI Clone](https://rejouiceui.vercel.app/)
+👉 [shkw-dev UI Clone](https://shkw-dev.vercel.app/)
 
 ---
 
